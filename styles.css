@@ -1,0 +1,26 @@
+body {
+  background-color: #eeedec;
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+.container {
+  max-width: 400px;
+}
+
+.icon {
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+}
+
+.day {
+  background-color: #c5d9f3;
+}
+.night {
+  background-color: #102c51;
+}
+.circle-card {
+  border-radius: 50%;
+}
